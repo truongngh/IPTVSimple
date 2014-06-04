@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="01" tvg-name="VTV6HD" tvg-logo="VTV6HD" group-title="HD",VTV6HD
+http://117.103.206.26:1935/live/_definst_/VTV6HD/VTV6HD_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="02" tvg-name="VTV3HD" tvg-logo="VTV3HD" group-title="HD",VTV3HD
+http://117.103.206.26:1935/live/_definst_/VTV3HD/VTV3HD_live.smil/playlist.m3u8
