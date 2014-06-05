@@ -1,6 +1,7 @@
 IPTVSimple
 ==========
 Tested with Openelec on RasPi
+
 1. Download zip file, extract to your RasPi
 
 2. Launch XBMC Settings > Add-ons > Disable Add-ons > PVR Clients
