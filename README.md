@@ -6,7 +6,7 @@ Tested with Openelec on RasPi
 
 2. Launch XBMC Settings > Add-ons > Disable Add-ons > PVR Clients
 
-3. Enable IPTV Simple
+3. Enable PVR IPTV Simple Client
 
 4. Go to Configure, add playlist.m3u and location of channel icons
 
