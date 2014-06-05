@@ -21,6 +21,8 @@ http://frdlzsmb.cdnviet.com/psczntp/_definst_/fbnc.720p.stream/playlist.m3u8
 http://117.103.224.75:1935/live/_definst_/VTCHD3/smil:VTCHD3_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="StarMoviesHD" tvg-logo="StarMoviesHD" group-title="HD",StarMoviesHD
 http://frdlzsmb.cdnviet.com/psczntp/_definst/starmovies.720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="StarMoviesHD2" tvg-logo="StarMoviesHD2" group-title="HD",StarMoviesHD2
+http://117.103.206.24:1935/live/_definst_/StarMovieHD/StarMovieHD_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="AXNHD" tvg-logo="AXNHD" group-title="HD",AXNHD
 http://117.103.206.24:1935/live/_definst_/AXNHD/AXNHD_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="Natgeo_HD" tvg-logo="Natgeo_HD" group-title="HD",Natgeo_HD
@@ -35,6 +37,8 @@ http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/VTVCab16.smil/playlist.m3u8
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/TheThaoHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="SCTV_TheThaoHD" tvg-logo="SCTV_TheThaoHD" group-title="HD",SCTV_TheThaoHD
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/SCTVTheThao.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="FoxHD" tvg-logo="FoxHD" group-title="HD",FoxHD
+http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/FOXSportHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="FoxHD" tvg-logo="FoxHD" group-title="HD",FoxHD
 http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/espn.720p.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="BiBi" tvg-logo="BiBi" group-title="HD",BiBi
