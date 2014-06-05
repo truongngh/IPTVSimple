@@ -8,4 +8,6 @@ Tested with Openelec on RasPi
 5. Move out to XBMC Settings > Live TV and enable it
 6. Enjoy
 
-Note: when you update the playlist.m3u for more channel, please reset PVR database on Live TV Settings so the LiveTV can update the channel properly
+Note: 
+*when you update the playlist.m3u for more channel, please reset PVR database on Live TV Settings so the LiveTV can update the channel properly
+*to use remote tv to switch channel, please check option "Use backend channels numbers" in Settings > Live TV > General
