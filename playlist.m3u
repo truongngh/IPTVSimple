@@ -1,59 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="01" tvg-name="VTV6HD" tvg-logo="VTV6HD" group-title="HD",VTV6HD
-http://117.103.206.26:1935/live/_definst_/VTV6HD/VTV6HD_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="02" tvg-name="VTV3HD" tvg-logo="VTV3HD" group-title="HD",VTV3HD
-http://117.103.206.26:1935/live/_definst_/VTV3HD/VTV3HD_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="03" tvg-name="HTV2HD" tvg-logo="HTV2HD" group-title="HD",HTV2HD
-http://frdlzsmb.cdnviet.com/psczntp/_definst_/htv2.720p.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="04" tvg-name="HTV7HD" tvg-logo="HTV7HD" group-title="HD",HTV7HD
-http://frdlzsmb.cdnviet.com/psczntp/_definst_/htv7.720p.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="05" tvg-name="HTV9HD" tvg-logo="HTV9HD" group-title="HD",HTV9HD
-http://frdlzsmb.cdnviet.com/psczntp/_definst_/htv9.720p.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="06" tvg-name="ThuanVietHD" tvg-logo="ThuanVietHD" group-title="HD",ThuanVietHD
-http://frdlzsmb.cdnviet.com/psczntp/_definst_/thuan_viet.720p.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="07" tvg-name="HTVC_MOVIE_HD" tvg-logo="HTVC_MOVIE_HD" group-title="HD",HTVC_MOVIE_HD
-http://frdlzsmb.cdnviet.com/psczntp/_definst_/htvc_movies.720p.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="08" tvg-name="HTVCHD" tvg-logo="HTVCHD" group-title="HD",HTVCHD
-http://frdlzsmb.cdnviet.com/psczntp/_definst_/htvc_plus.720p.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="09" tvg-name="FBNCHD" tvg-logo="FBNCHD" group-title="HD",FBNCHD
-http://frdlzsmb.cdnviet.com/psczntp/_definst_/fbnc.720p.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="HBOHD" tvg-logo="HBOHD" group-title="HD",HBOHD
+#EXTINF:-1 tvg-id="1" tvg-name="HBOHD" tvg-logo="HBOHD.jpg" group-title="HD",HBOHD
 http://117.103.224.75:1935/live/_definst_/VTCHD3/smil:VTCHD3_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="StarMoviesHD" tvg-logo="StarMoviesHD" group-title="HD",StarMoviesHD
+#EXTINF:-1 tvg-id="2" tvg-name="StarMoviesHD" tvg-logo="StarMoviesHD.jpg" group-title="HD",StarMoviesHD
 http://frdlzsmb.cdnviet.com/psczntp/_definst/starmovies.720p.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="StarMoviesHD2" tvg-logo="StarMoviesHD2" group-title="HD",StarMoviesHD2
+#EXTINF:-1 tvg-id="3" tvg-name="StarMoviesHD2" tvg-logo="StarMoviesHD2.jpg" group-title="HD",StarMoviesHD2
 http://117.103.206.24:1935/live/_definst_/StarMovieHD/StarMovieHD_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="AXNHD" tvg-logo="AXNHD" group-title="HD",AXNHD
+#EXTINF:-1 tvg-id="4" tvg-name="AXNHD" tvg-logo="AXNHD.jpg" group-title="HD",AXNHD
 http://117.103.206.24:1935/live/_definst_/AXNHD/AXNHD_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="Natgeo_HD" tvg-logo="Natgeo_HD" group-title="HD",Natgeo_HD
-http://frdlzsmb.cdnviet.com/psczntp/_definst/natgeo.720p.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="StarWorldHD" tvg-logo="StarWorldHD" group-title="HD",StarWorldHD
+#EXTINF:-1 tvg-id="5" tvg-name="StarWorldHD" tvg-logo="StarWorldHD.jpg" group-title="HD",StarWorldHD
 http://frdlzsmb.cdnviet.com/psczntp/_definst/starworld.720p.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="DiscoveryHD" tvg-logo="DiscoveryHD" group-title="HD",DiscoveryHD
-http://frdlzsmb.cdnviet.com/psczntp/_definst/discovery.720p.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="BongDaHD" tvg-logo="BongDaHD" group-title="HD",BongDaHD
+#EXTINF:-1 tvg-id="6" tvg-name="BongDaHD" tvg-logo="BongDaHD.jpg" group-title="HD",BongDaHD
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/VTVCab16.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="TheThaoHD" tvg-logo="TheThaoHD" group-title="HD",TheThaoHD
+#EXTINF:-1 tvg-id="7" tvg-name="TheThaoHD" tvg-logo="TheThaoHD.jpg" group-title="HD",TheThaoHD
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/TheThaoHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="SCTV_TheThaoHD" tvg-logo="SCTV_TheThaoHD" group-title="HD",SCTV_TheThaoHD
+#EXTINF:-1 tvg-id="8" tvg-name="SCTV_TheThaoHD" tvg-logo="SCTV_TheThaoHD.jpg" group-title="HD",SCTV_TheThaoHD
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/SCTVTheThao.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="FoxHD" tvg-logo="FoxHD" group-title="HD",FoxHD
+#EXTINF:-1 tvg-id="9" tvg-name="FoxHD" tvg-logo="FoxHD.jpg" group-title="HD",FoxHD
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/FOXSportHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="FoxHD" tvg-logo="FoxHD" group-title="HD",FoxHD
+#EXTINF:-1 tvg-id="10" tvg-name="FoxHD" tvg-logo="FoxHD.jpg" group-title="HD",FoxHD
 http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/espn.720p.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="BiBi" tvg-logo="BiBi" group-title="HD",BiBi
+#EXTINF:-1 tvg-id="11" tvg-name="VTV3HD" tvg-logo="VTV3HD.jpg" group-title="HD",VTV3HD
+http://117.103.206.26:1935/live/_definst_/VTV3HD/VTV3HD_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="VTV6HD" tvg-logo="VTV6HD.jpg" group-title="HD",VTV6HD
+http://117.103.206.26:1935/live/_definst_/VTV6HD/VTV6HD_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="HTV2HD" tvg-logo="HTV2HD.jpg" group-title="HD",HTV2HD
+http://frdlzsmb.cdnviet.com/psczntp/_definst_/htv2.720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="HTV7HD" tvg-logo="HTV7HD.jpg" group-title="HD",HTV7HD
+http://frdlzsmb.cdnviet.com/psczntp/_definst_/htv7.720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="HTV9HD" tvg-logo="HTV9HD.jpg" group-title="HD",HTV9HD
+http://frdlzsmb.cdnviet.com/psczntp/_definst_/htv9.720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="ThuanVietHD" tvg-logo="ThuanVietHD.jpg" group-title="HD",ThuanVietHD
+http://frdlzsmb.cdnviet.com/psczntp/_definst_/thuan_viet.720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="HTVC_MOVIE_HD" tvg-logo="HTVC_MOVIE_HD.jpg" group-title="HD",HTVC_MOVIE_HD
+http://frdlzsmb.cdnviet.com/psczntp/_definst_/htvc_movies.720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="HTVCHD" tvg-logo="HTVCHD.jpg" group-title="HD",HTVCHD
+http://frdlzsmb.cdnviet.com/psczntp/_definst_/htvc_plus.720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="FBNCHD" tvg-logo="FBNCHD.jpg" group-title="HD",FBNCHD
+http://frdlzsmb.cdnviet.com/psczntp/_definst_/fbnc.720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="Natgeo_HD" tvg-logo="Natgeo_HD.jpg" group-title="HD",Natgeo_HD
+http://frdlzsmb.cdnviet.com/psczntp/_definst/natgeo.720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="StarWorldHD" tvg-logo="StarWorldHD.jpg" group-title="HD",StarWorldHD
+http://frdlzsmb.cdnviet.com/psczntp/_definst/starworld.720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="DiscoveryHD" tvg-logo="DiscoveryHD.jpg" group-title="HD",DiscoveryHD
+http://frdlzsmb.cdnviet.com/psczntp/_definst/discovery.720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="BiBi" tvg-logo="BiBi.jpg" group-title="HD",BiBi
 http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/Bibi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="DisneyChannel" tvg-logo="DisneyChannel" group-title="HD",DisneyChannel
+#EXTINF:-1 tvg-id="24" tvg-name="DisneyChannel" tvg-logo="DisneyChannel.jpg" group-title="HD",DisneyChannel
 http://117.103.206.26:1935/live/_definst_/DISNEYCHANNEL/DISNEYCHANNEL_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="22" tvg-name="KidsTV" tvg-logo="KidsTV" group-title="HD",KidsTV
+#EXTINF:-1 tvg-id="25" tvg-name="KidsTV" tvg-logo="KidsTV.jpg" group-title="HD",KidsTV
 http://123.30.170.215:8077/play/vtc11.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="SCTV_HaiHD" tvg-logo="SCTV_HaiHD" group-title="HD",SCTV_HaiHD
+#EXTINF:-1 tvg-id="26" tvg-name="SCTV_HaiHD" tvg-logo="SCTV_HaiHD.jpg" group-title="HD",SCTV_HaiHD
 http://live.accessasia.tv:1935/vnptg_channels/mp4:sctvhaihd.480p/playlist.m3u
-#EXTINF:-1 tvg-id="24" tvg-name="VTC1HD" tvg-logo="VTC1HD" group-title="HD",VTC1HD
+#EXTINF:-1 tvg-id="27" tvg-name="VTC1HD" tvg-logo="VTC1HD.jpg" group-title="HD",VTC1HD
 http://117.103.224.75:1935/live/_definst_/VTCHD1/smil:VTCHD1_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="VTC3HD" tvg-logo="VTC3HD" group-title="HD",VTC3HD
+#EXTINF:-1 tvg-id="28" tvg-name="VTC3HD" tvg-logo="VTC3HD.jpg" group-title="HD",VTC3HD
 http://117.103.206.24:1935/live/_definst_/HBOHD/HBOHD_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="26" tvg-name="SCTV1" tvg-logo="SCTV1" group-title="HD",SCTV1
+#EXTINF:-1 tvg-id="29" tvg-name="SCTV1" tvg-logo="SCTV1.jpg" group-title="HD",SCTV1
 rtmp://206.190.150.132:1935/liveStream/hai_1
-#EXTINF:-1 tvg-id="27" tvg-name="YanTV" tvg-logo="YanTV" group-title="HD",YanTV
+#EXTINF:-1 tvg-id="30" tvg-name="YanTV" tvg-logo="YanTV.jpg" group-title="HD",YanTV
 rtmp://sctv2.yan.vn/live/yantv
