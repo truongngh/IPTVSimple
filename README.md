@@ -10,6 +10,10 @@ Tested with Openelec on RasPi
 
 4. Go to Configure, add playlist.m3u and location of channel icons
 
+Playlist URL: https://raw.githubusercontent.com/quangphananh/IPTVSimple/master/playlist.m3u
+
+Icon URL: https://raw.githubusercontent.com/quangphananh/IPTVSimple/master/
+
 5. Move out to XBMC Settings > Live TV and enable it
 
 6. Enjoy
