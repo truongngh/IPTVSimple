@@ -21,9 +21,9 @@ http://vyhjcdkn.cdnviet.com/hlyzcbv/_definst_/FOXSportHD.smil/playlist.m3u8
 http://htqjrpsv.cdnviet.com/htjzzsg/_definst_/espn.720p.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="VTV3HD" tvg-logo="VTV3HD.jpg" group-title="HD",VTV3HD
 http://117.103.206.26:1935/live/_definst_/VTV3HD/VTV3HD_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="VTV6HD" tvg-logo="VTV6HD.jpg" group-title="HD",VTV6HD
+#EXTINF:-1 tvg-id="12" tvg-name="VTV6HD" tvg-logo="VTV6HD" group-title="HD",VTV6HD
 http://117.103.206.26:1935/live/_definst_/VTV6HD/VTV6HD_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="HTV2HD" tvg-logo="HTV2HD.jpg" group-title="HD",HTV2HD
+EXTINF:-1 tvg-id="13" tvg-name="HTV2HD" tvg-logo="HTV2HD.jpg" group-title="HD",HTV2HD
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/htv2.720p.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="HTV7HD" tvg-logo="HTV7HD.jpg" group-title="HD",HTV7HD
 http://frdlzsmb.cdnviet.com/psczntp/_definst_/htv7.720p.stream/playlist.m3u8
